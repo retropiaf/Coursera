@@ -1,0 +1,30 @@
+/* Basic styles */
+
+* {
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	text-align: center;
+	font-size: 2em;
+	font-style: bold;
+
+}
+
+/* responsive framework */
+
+.row {
+	width: 100%;
+}
+
+
+/* desktop view (992px and above) */
+
+
+
+/* tablet view (between 768px and 991px) */
+
+
+
+/* mobile view (equal to or less than 767px) */	
